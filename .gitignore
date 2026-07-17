@@ -24,3 +24,6 @@ tmp
 # (Optional) Also ignore other common temporary files
 *.log
 *.pid
+
+FILE_STRUCTURE.md
+
